@@ -7,4 +7,17 @@ header {
     letter-spacing: 0.1em;
     word-spacing: 0.5em;
     border: 0.5px black solid;
+    color: rgb(65, 58, 58);
+}
+
+header img {
+    height: 60px;
+    position: absolute;
+    margin-left: -40%;
+    margin-top: 5px;
+}
+
+img:hover {
+    opacity: 0.9;
+    transform: scale(1.2);
 }
