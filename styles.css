@@ -1,0 +1,10 @@
+header {
+    text-align: center;
+    font-family: Franklin Gothic Medium;
+    background-color:rgb(152, 212, 212);
+    padding: 40px;
+    font-size: 30px;
+    letter-spacing: 0.1em;
+    word-spacing: 0.5em;
+    border: 0.5px black solid;
+}
