@@ -21,3 +21,27 @@ img:hover {
     opacity: 0.9;
     transform: scale(1.2);
 }
+
+body {
+    background-color: aliceblue;
+    text-align: center;
+    font-family: arial;
+}
+
+.title-box {
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+    justify-content: center;
+    border-radius: 25px;
+}
+
+.title-card {
+    background-color: rgb(152, 212, 212);
+    border: 0.5px black solid;
+    margin-left: 20px;
+    padding: 10px 50px;
+    font-size: 20px;
+    margin-right: 20px;
+    border-radius: 25% 10%;
+}
